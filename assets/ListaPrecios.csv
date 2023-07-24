@@ -1,0 +1,84 @@
+SKU, Producto, Sabor, Puntos, Costo, Costo_25, Costo_35, Costo_42, Costo_50
+"030K","Herbalife® Número 1","Arroz con leche",25.75,814.00,632.06,559.51,508.73,450.70
+"049K","Herbalife® Número 1","Coco",25.75,814.00,632.06,559.51,508.73,450.70
+"0884","Herbalife® Número 1","Choco Avellana",25.75,814.00,632.06,559.51,508.73,450.70
+"2555","Herbalife® Número 1","Plátano",25.75,814.00,632.06,559.51,508.73,450.70
+"2057","Herbalife® Número 1","Vainilla",25.75,814.00,632.06,559.51,508.73,450.70
+"2059","Herbalife® Número 1","Fresa",25.75,814.00,632.06,559.51,508.73,450.70
+"2158","Herbalife® Número 1","Piña Colada",25.75,814.00,632.06,559.51,508.73,450.70
+"2060","Herbalife® Número 1","Cookies & Cream",25.75,814.00,632.06,559.51,508.73,450.70
+"2154","Herbalife® Número 1","Frutas Tropicales",25.75,814.00,632.06,559.51,508.73,450.70
+"2056","Herbalife® Número 1","Dulce de Leche",25.75,814.00,632.06,559.51,508.73,450.70
+"0006","Herbal Aloe Concentrado","473 ml Original",24.95,585.00,452.84,400.10,363.17,320.98
+"1065","Herbal Aloe Concentrado","473 ml Mango",24.95,585.00,452.84,400.10,363.17,320.98
+"2631","Herbal Aloe Concentrado","473 ml Mandarina",24.95,585.00,452.84,400.10,363.17,320.98
+"1610","Herbal Aloe Concentrado","473 ml Uva",24.95,585.00,452.84,400.10,363.17,320.98
+"1188","Herbal Aloe Concentrado","1.892 L Mango",92.55,2116.00,1638.15,1447.34,1313.77,1161.13
+"044K","Infusión Herbal","48 g Menta",32.00,875.00,680.66,603.12,548.84,486.81
+"0964","Thermojetics Concentrado de Hierbas","102 g Original",34.95,829.00,641.31,566.61,514.32,454.56
+"0963","Thermojetics Concentrado de Hierbas","51 g Original",19.95,453.00,350.80,309.94,281.33,248.65
+"1638","Thermojetics Concentrado de Hierbas","51 g Chai",19.95,453.00,350.80,309.94,281.33,248.65
+"0922","Thermojetics Concentrado de Hierbas","51 g Limón",19.95,453.00,350.80,309.94,281.33,248.65
+"1428","Té Verde","48 g Granada",28.25,704.00,545.13,481.63,437.19,386.39
+"0085","N-R-G Té","60 g Original",14.75,337.00,260.24,229.93,208.71,184.47
+"2131","N-R-G Té","60 g Manzana Verde",14.75,337.00,260.24,229.93,208.71,184.47
+"0242","Proteína en Polvo","Original",17.95,544.00,421.05,372.00,337.67,298.44
+"2648","Proteína en Polvo","Frutos Rojos",17.95,544.00,421.05,372.00,337.67,298.44
+"2146","Thermojetics Gold","Vainilla",35.40,1112.00,861.17,760.86,690.64,610.40
+"2147","Thermojetics Gold","Chocolate",35.40,1201.00,930.06,821.73,745.90,659.23
+"289K","Thermojetics Gold","Cacahuate",35.40,1112.00,861.17,760.86,690.64,610.40
+"3119","Polvo para Preparar Bebidas","Ponche de Frutas",18.75,630.00,501.46,450.38,414.63,373.76
+"3121","Polvo para Preparar Bebidas","Durazno-Mango",18.75,636.00,507.34,456.26,420.51,379.64
+"2644","Xtra-Shake","Nuez",28.20,848.00,663.36,589.51,537.82,478.75
+"2641","Xtra-Shake","Original",28.20,848.00,663.36,589.51,537.82,478.75
+"1095","Prolessa Duo","",23.75,882.00,682.99,603.78,548.33,484.96
+"0077","TC Formula","",32.95,973.00,752.83,665.15,603.76,533.61
+"0079","Anti-Snack","",23.50,669.00,517.98,457.64,415.41,367.15
+"1829","Probiotic Advantage","",20.45,673.00,520.54,459.91,417.47,368.96
+"103K","Active Fiber Complex Select","Piña-Coco",25.15,753.00,587.15,520.90,474.53,421.53
+"2864","Active Fiber Complex","Manzana",22.95,671.00,519.58,459.06,416.70,368.28
+"0103","Thermo-Bond®","",15.75,435.00,336.81,297.58,270.12,238.73
+"3146","Niteworks®","Naranja-Mango",48.75,1572.00,1218.62,1077.41,978.57,865.60
+"3150","Niteworks®","Limón",48.75,1572.00,1218.62,1077.41,978.57,865.60
+"0267","Betaglucanos","Vainilla",43.85,1230.00,952.58,841.63,763.96,675.20
+"0065","Herbalifeline®","",25.75,809.00,626.03,553.11,502.06,443.73
+"0032","Garlic Plus","",12.95,419.00,324.10,286.35,259.93,229.73
+"0039","Prelox® Azul","",49.95,1521.00,1177.34,1040.21,944.21,834.50
+"2374","Herbalife® Pro","Miel-Limón y Jengibre",26.50,905.00,703.09,622.66,566.36,502.02
+"1094","Schizandra Plus","",15.50,419.00,324.10,286.35,259.93,229.73
+"1061","Woman’s Choice","",37.00,912.00,705.80,623.59,566.04,500.27
+"0370","Cell-U-Loss®","",15.75,442.00,341.61,301.82,273.97,242.14
+"1841","Xtra-Cal Advanced en Polvo","",12.65,372.00,287.47,253.99,230.55,203.76
+"0565","Xtra-Cal®Advanced","",10.70,314.00,243.11,214.79,194.97,172.32
+"0831","Colágeno en Polvo","Limonada de Fresa",37.10,1159.00,896.85,792.39,719.26,635.69
+"0364","Barra Deluxe con Proteína","Vainilla con Almendra",13.22,587.00,502.79,469.36,445.96,419.22
+"0366","Barra Deluxe con Proteína","Limón",13.22,587.00,502.79,469.36,445.96,419.22
+"3525","Barras con Proteína","Chocolate",10.95,473.00,404.10,376.71,357.54,335.62
+"3115","Herbalife® Número 2 Multivitaminas, Minerales y Hierbas","",19.95,636.00,492.55,435.18,395.02,349.13
+"2364","Herbalife® Número 2 en Polvo/ Multivitaminas, Minerales y Hierbas","",22.00,721.00,557.92,492.93,447.44,395.46
+"095K","Kid’s Splash","Moras",31.00,871.00,673.82,595.34,540.40,477.61
+"3123","Cell Activator","",21.95,723.00,559.29,494.14,448.54,396.42
+"0064","Arándano con minerales, vitaminas y luteína","",17.20,528.00,408.35,360.79,327.49,289.44
+"101K","Balance M","",27.95,794.00,614.49,542.91,492.81,435.55
+"024K","Herbalife24® BCAAs","Manzana Verde",35.60,1161.00,935.78,845.71,782.66,710.60
+"3492","Herbalife® Número 1 Sport","Vainilla",43.15,1343.00,1054.06,938.48,857.58,765.12
+"3490","Strength","Chocolate",58.80,2285.00,1788.03,1589.61,1450.71,1291.98
+"1120","H24 Enhanced Protein Powder","",58.80,2124.00,1663.99,1480.26,1351.65,1204.67
+"1473","CR7 Drive","Açaí",24.90,759.00,610.16,550.68,509.04,461.46
+"0766","Limpiador Cítrico para la piel","",16.75,411.00,317.76,280.75,254.84,225.23
+"0765","Gel Limpiador de Sábila","",16.75,411.00,317.76,280.75,254.84,225.23
+"0767","Tonificador Energizante de Hierbas","",12.70,368.00,284.39,251.27,228.08,201.58
+"0768","Serum Reductor de Líneas de Expresión","",37.70,998.00,772.18,682.24,619.28,547.32
+"0771","Crema hidratante para Contorno de Ojos","",26.35,698.00,540.20,477.28,433.23,382.89
+"0770","Gel Reafirmante para Contorno de Ojos","",26.35,698.00,540.20,477.28,433.23,382.89
+"0899","Crema Humectante FPS 30","",28.40,688.00,532.29,470.29,426.89,377.29
+"0774","Crema Hidratante de Noche","",28.40,753.00,583.13,515.21,467.66,413.33
+"0772","Exfoliante con Arándanos para el Cutis","",13.10,316.00,244.69,216.19,196.24,173.44
+"0773","Mascarilla limpiadora de Arcilla con Menta","",14.20,390.00,301.88,266.72,242.11,213.98
+"1492","Programa SKIN Básico: Normal / Seco","",86.25,2218.00,1717.58,1517.51,1377.47,1217.42
+"1496","Programa SKIN Básico: Normal / Graso","",86.25,2218.00,1717.58,1517.51,1377.47,1217.42
+"1493","Programa SKIN Intermedio: Normal / Seco","",176.65,4610.00,3570.16,3154.31,2863.21,2530.53
+"1497","Programa SKIN Intermedio: Normal / Graso","",176.65,4610.00,3570.16,3154.31,2863.21,2530.53
+"1494","Programa SKIN Avanzado: Normal / Seco","",203.95,5316.00,4116.73,3637.22,3301.56,2917.95
+"1498","Programa SKIN Avanzado: Normal / Graso","",203.95,5316.00,4116.73,3637.22,3301.56,2917.95
+"0413","Herbal Aloe Gel Corporal con Aloe","",8.05,275.00,212.92,188.12,170.76,150.92
